@@ -113,20 +113,17 @@
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
     "cart_type": "drawer",
-    "cross_selling_product_list": [
-      "extra-dirtea-candy-shop",
-      "extra-dirtea-juicy-mango",
-      "dirtea-candy-shop",
-      "dirtea-wet-peach",
-      "dirtea-zero-lemon-from-heaven",
-      "dirtea-zero-wet-peach"
-    ],
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "cart_color_scheme": "background-1",
+    "cross_selling_product_list": [
+      "baby-sleep-rescue-the-3-minute-rule-ebook-4",
+      "3-6-months-nurture-sleep-program"
+    ],
+    "threshold_limit": 120,
     "gift_cross_selling_product_list": [
-      "dr-pepper-classic"
+      "hyaluron-pure-facial-serum-4"
     ],
     "sections": {
       "main-password-header": {
